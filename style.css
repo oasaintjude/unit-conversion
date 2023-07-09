@@ -30,7 +30,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 480px;
+    width: 65%;
     height: 650px;
 }
 .metric-imperial-unit-conversion {
@@ -44,6 +44,7 @@ body {
     color: var(--white);
 }
 .metric-imperial-unit-conversion h1 {
+    text-align: center;
     margin-top: 5px;
     font-weight: 800;
     font-size: 25px;
